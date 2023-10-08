@@ -1,0 +1,73 @@
+//<FORM>
+// Снипет (HTML):
+.form {
+  &__row {
+  }
+  &__column {
+  }
+  &__line {
+  }
+  &__input {
+  }
+  &__button {
+  }
+  &__error {
+  }
+
+  // .form__title
+
+  &__title {
+  }
+
+  // .form__items
+
+  &__items {
+    display: flex;
+    flex-direction: column;
+    gap: rem(22);
+    margin-bottom: rem(30);
+  }
+
+  // .form__item
+
+  &__item {
+  }
+
+  // .form__link
+
+  &__link {
+  }
+}
+//</FORM>
+
+// <BUTTONS>
+// Снипет (HTML): btn
+// @import "button";
+
+// <INPUTS>
+// Снипет (HTML): inp
+@import "input";
+
+// <CHECK>
+// Снипет (HTML): chk
+// @import "checkbox";
+
+// <RADIO>
+// Снипет (HTML): opt
+// @import "radio";
+
+// <SELECT>
+// Снипет (HTML): sel
+// @import "select";
+
+// <RATING>
+// Снипет (HTML): rating
+// @import "rating";
+
+// <QUANTITY>
+// Снипет (HTML): qa
+// @import "quantity";
+
+// <RANGE>
+// Снипет (HTML):
+// @import "range";

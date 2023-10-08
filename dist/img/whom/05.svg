@@ -1,0 +1,17 @@
+<svg width="59" height="60" viewBox="0 0 59 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="56.9565" height="58" fill="#2A3149"/>
+<path d="M24.913 20.2174L21 17.6087L24.913 15H34.0435L37.9565 17.6087L34.0435 20.2174H24.913Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M37.9565 17.6086V23.4782L29.4783 29.9999L21 23.4782V17.6086" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M21 42.3913V36.5217L29.4783 30L37.9565 36.5217V42.3913L34.0435 45H24.913L21 42.3913Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M32.7395 23.4783L29.4786 26.087L26.2178 23.4783" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.3475 41.0869H33.391L29.478 39.1304L25.5649 41.0869H23.6084" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.4785 33.9131V35.2174" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.4785 37.8262V39.1305" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1" y="1" width="56.9565" height="58" stroke="url(#paint0_linear_917_79394)" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_917_79394" x1="29.4783" y1="1" x2="29.4783" y2="59" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C91EFE"/>
+<stop offset="1" stop-color="#4A68F2"/>
+</linearGradient>
+</defs>
+</svg>
